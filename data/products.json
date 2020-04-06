@@ -1,6 +1,16 @@
 {
-  "Disinfectant wipes",
-  "Toilet Paper",
-  "Bread",
-  "Cheese"
+  "products": [
+    {
+      "name": "Disinfectant wipes"
+    },
+    {
+      "name": "Toilet Paper"
+    },
+    {
+      "name": "Bread"
+    },
+    {
+      "name": "Cheese"
+    }
+  ]
 }
